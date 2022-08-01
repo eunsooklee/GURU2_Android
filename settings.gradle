@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "GURU2_Android"
